@@ -1,0 +1,16 @@
+.vse {
+	background-color: lightblue;
+}
+
+.phone {
+	margin: 20px 0px 20px 40px;
+}
+
+.phonebook{
+    margin-left:20px !important;
+}
+
+.contact {
+	float:right;
+	margin: 20px 40px 20px 0px;
+}
